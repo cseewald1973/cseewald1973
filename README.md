@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cseewald1973
+- 👀 I’m interested in MB-300-microsoft-dynamics-365-core-finance-and-operations
+- 📫 You can get me at cseewald@gmail.com
